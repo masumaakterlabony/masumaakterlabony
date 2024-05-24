@@ -2,7 +2,6 @@
 - 👀 I’m interested in to build responsive real world website.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on web developers.
-- 📫 How to reach me my dream goal web development.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
